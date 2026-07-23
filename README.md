@@ -1,0 +1,2 @@
+Simplesmente um teste para postar no github, fazer um repositório deixar público 
+com o intuito de movimentar o github e apenas testar se sou capaz de criar algo simples para uso comum pessoal. Também fiz um teste de commit e push
